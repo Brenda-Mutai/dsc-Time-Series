@@ -1,6 +1,7 @@
 # HOUSE MARKET ANALYSIS
 
-![Alt text](<REAL ESTATE.jpg>)
+![REAL ESTATE](https://github.com/Brenda-Mutai/dsc-Time-Series/assets/133044683/00a821c3-bd3e-490c-aa04-5e2bcf221a7d)
+
 
 ## INTRODUCTION
 
