@@ -36,25 +36,30 @@ The data also has 14723 rows and 272 columns. The data will be melted for better
 
 * Univariate Analysis
 
-![Alt text](Univariate-1.png)
+![Univariate-1](https://github.com/Brenda-Mutai/dsc-Time-Series/assets/133044683/e662c2b4-649c-4a05-a922-74bdac9ead3c)
+
 
 * Bivariate Analysis
 
-![Alt text](image-1.png)
+![bivariate](https://github.com/Brenda-Mutai/dsc-Time-Series/assets/133044683/827990b3-f524-430d-a773-f87b9228a418)
+
 
 * Multivariate
 
-![Alt text](image-2.png)
+![multivariate](https://github.com/Brenda-Mutai/dsc-Time-Series/assets/133044683/f7bfc308-b401-4a02-8037-a8c2363ddb7d)
+
 
 ## TIME SERIES EDA
 
 Time Series Exploratory Data Analysis (Time Series EDA) is the process of visually and quantitatively analyzing a time series dataset to acquire insights, detect patterns, and understand the underlying properties of the data. Time series data is made up of observations or measurements taken at regular intervals over time.
 
-![Alt text](image.png)
+![Time series EDA](https://github.com/Brenda-Mutai/dsc-Time-Series/assets/133044683/8646d5e8-9f90-4b61-9d5d-0f36534be5a5)
+
 
 ## TIME SERIES DECOMPOSITION
 
-![Alt text](image.png)
+![Decomposition](https://github.com/Brenda-Mutai/dsc-Time-Series/assets/133044683/01167ad4-91f7-4bd6-8a6b-553cc125b0b9)
+
 
 ## CONCLUSIONS
 
