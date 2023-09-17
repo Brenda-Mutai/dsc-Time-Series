@@ -47,15 +47,26 @@ The data also has 14723 rows and 272 columns. The data will be melted for better
 
 Time Series Exploratory Data Analysis (Time Series EDA) is the process of visually and quantitatively analysing a time series dataset to acquire insights, detect patterns, and understand the underlying properties of the data. Time series data is made up of observations or measurements taken at regular intervals over time.
 
-![Alt text](image-3.png)
+![Alt text](image.png)
 
 ## TIME SERIES DECOMPOSITION
 
-* Augmented Dickey-Fuller Test Results for Differenced Series:
-ADF Statistic: -7.839191714550212
-P-value: 6.00043814883819e-12
-Critical Values:
-  1%: -3.458128284586202
-  5%: -2.873761835239286
-  10%: -2.5732834559706235
-The detrended time series is stationary (reject the null hypothes)
+![Alt text](image.png)
+
+## CONCLUSIONS
+
+* The model for region '60657' has been successfully applied to the time series, resulting in good model performance.
+
+* The model generated useful predictions for the region's median dwelling price.
+
+*  House costs vary depending on where you live on the region. The median price of a home in a high-ranking region is high.
+
+* The SARIMAX (Seasonal Autoregressive Integrated Moving Average with Exogenous Variables) model was successfully applied to area 60657 time series data.
+
+
+## RECOMMENDATIONS
+
+* Due to the lowering of real estate prices in the near future, sell at a discount to boost house sales over the following few years.
+
+* More data  which has social aspects like schools and hospitals would be more effective to advise the client based on the amenities they are looking for in terms of housing.
+
