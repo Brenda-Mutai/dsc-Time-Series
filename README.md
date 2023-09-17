@@ -35,7 +35,7 @@ The data also has 14723 rows and 272 columns. The data will be melted for better
 
 * Univariate Analysis
 
-![Alt text](image.png)
+![Alt text](Univariate-1.png)
 
 * Bivariate Analysis
 
