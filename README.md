@@ -1,5 +1,7 @@
 # HOUSE MARKET ANALYSIS
 
+![Alt text](<REAL ESTATE.jpg>)
+
 ## INTRODUCTION
 
 Real estate is a profitable business in every economy worlwide. This is contrributed by a variety of factors such as the increase of the peoples population growth in majority of countries. In our dataset we will be looking at United states housing market which has changed drastically over the past decades. The real estate market in United states is among the competetitive industry.
@@ -68,5 +70,4 @@ Time Series Exploratory Data Analysis (Time Series EDA) is the process of visual
 
 * Due to the lowering of real estate prices in the near future, sell at a discount to boost house sales over the following few years.
 
-* More data  which has social aspects like schools and hospitals would be more effective to advise the client based on the amenities they are looking for in terms of housing.
-
+* More data with social features, such as schools and hospitals, would be more useful in advising the customer depending on the housing amenities they seek.
